@@ -15,19 +15,13 @@ So I'll be able to choose between Angular or Intel App Fw for my real projects..
 
 Thanks for watching ;)
 
-Reference
+Reference :
 ---------
-Intel App is an alternative to jQuery
-http://app-framework-software.intel.com
-https://github.com/01org/appframeworkPlugins
 
-
-Intel UI is an alternative to jQuery UI/ Mobile
-
-
-Intel MVC is an add-on
-http://app-framework-software.intel.com/docmvc.php
-https://github.com/01org/appframeworkMVC
+- [Intel App](http://app-framework-software.intel.com) is an alternative to jQuery.
+- [Intel App Plugins](https://github.com/01org/appframeworkPlugins)
+-  Intel UI is an alternative to jQuery UI/ Mobile
+- [Intel MVC](http://app-framework-software.intel.com/docmvc.php) is an add-on: [clone it!](https://github.com/01org/appframeworkMVC)
 
 
 
