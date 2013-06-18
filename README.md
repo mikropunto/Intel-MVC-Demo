@@ -17,15 +17,21 @@ Thanks for watching ;)
 
 Reference
 ---------
-Intel App is a substitute to jQuery
-Intel UI is an alternative to jQuery UI/ Mobile
-Intel MVC is an add-on
-
+Intel App is an alternative to jQuery
 http://app-framework-software.intel.com
+https://github.com/01org/appframeworkPlugins
 
 
+Intel UI is an alternative to jQuery UI/ Mobile
+
+
+Intel MVC is an add-on
 http://app-framework-software.intel.com/docmvc.php
 https://github.com/01org/appframeworkMVC
 
-https://github.com/01org/appframeworkPlugins
+
+
+
+
+
 
