@@ -12,7 +12,7 @@ $.mvc.controller.create("hello", {
 
     //OPCION en serie
         $.ajax({
-            url: "/views/songs.html",
+            url: "views/songs.html",
             success: function(view) {
                 $.getJSON(
                         "http://api.u-vox.com/demo.php?v=2", function(json) {
